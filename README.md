@@ -16,4 +16,7 @@ Explore US Bikeshare Data
 
 ### Credits
 * A big thanks to Juno Lee and Richard Kalehoff of Udacity
+* https://www.codewars.com
+* https://stackoverflow.com/questions/920645/when-to-use-while-or-for-in-python
+* https://wiki.python.org/moin/WhileLoop
 
