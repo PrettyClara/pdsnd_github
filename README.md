@@ -1,15 +1,19 @@
 ### Date created
-Include the date you created this project and README file.
+8.2.2020
 
 ### Project Title
-Replace the Project Title
+Explore US Bikeshare Data
 
 ### Description
-Describe what your project is about and what it does
+* This project is about using a data provided by a bike share system provider for many major cities in the United States to uncover bike share usage patterns.
+* The data is used to compare the system usage between three large cities: Chicago, New York City, and Washington DC.
+* The use of code to provide the Popular times of travel, Popular stations and trip, Trip Duration anad User info.
 
 ### Files used
-Include the files used
+* chicago.csv
+* new_york_city.csv
+* washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+* A big thanks to Juno Lee and Richard Kalehoff of Udacity
 
