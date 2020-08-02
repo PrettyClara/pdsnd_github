@@ -6,8 +6,12 @@ Explore US Bikeshare Data
 
 ### Description
 * This project is about using a data provided by a bike share system provider for many major cities in the United States to uncover bike share usage patterns.
-* The data is used to compare the system usage between three large cities: Chicago, New York City, and Washington DC.
-* The use of code to provide the Popular times of travel, Popular stations and trip, Trip Duration anad User info.
+* This data is used to compare the system usage between three large cities: Chicago, New York City, and Washington, DC.
+* The use of code to provide the;
+    * Popular times of travel
+    * Popular stations and trip
+    * Trip Duration
+    * User info.
 
 ### Files used
 * chicago.csv
